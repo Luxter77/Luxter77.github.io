@@ -1,20 +1,19 @@
 /* Reset some default browser styles */
 body, h1, h2, h3, p {
-    text-shadow: 2px 2px #00ff00; /* Neon green text shadow */
     margin: 0;
     padding: 0;
 }
 
 /* Set a background color for the body */
 body {
-    background-color: #303030;
+    background-color: #000000;
     font-family: Arial, sans-serif;
 }
 
 /* Style the navigation bar */
 nav {
-    background-color: #333;
-    color: ##0a3502;
+    background-color: #161111;
+    color: ##ffffff;
     text-align: center;
     padding: 10px 0;
 }
@@ -30,7 +29,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: ##0a3502;
+    color: ##ffffff;
     font-weight: bold;
 }
 
@@ -54,36 +53,36 @@ nav a {
 }
 
 .card-content h2 {
-    color: #333;
+    color: #bc62ea;
     font-size: 24px;
 }
 
 .card-content p {
-    color: #777;
+    color: #fff;
     font-size: 16px;
 }
 
 /* Style the sections */
 section {
-    background-color: #303030;
+    background-color: #16111130;
     padding: 30px;
-    margin: 20px 0;
+    margin: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 section h2 {
-    color: #333;
+    color: #fff;
     font-size: 24px;
 }
 
 section h3 {
-    color: #444;
+    color: #888888;
     font-size: 20px;
 }
 
 section p {
-    color: #777;
+    color: #828282;
     font-size: 16px;
     line-height: 1.5;
 }
@@ -91,7 +90,7 @@ section p {
 /* Style the footer */
 footer {
     text-align: center;
-    background-color: #333;
-    color: ##0a3502;
+    background-color: #161111;
+    color: ##ffffff;
     padding: 10px 0;
 }
