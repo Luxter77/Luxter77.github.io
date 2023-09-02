@@ -1,5 +1,6 @@
 /* Reset some default browser styles */
 body, h1, h2, h3, p {
+    text-shadow: 2px 2px #00ff00; /* Neon green text shadow */
     margin: 0;
     padding: 0;
 }
@@ -13,7 +14,7 @@ body {
 /* Style the navigation bar */
 nav {
     background-color: #333;
-    color: #4AF626;
+    color: ##0a3502;
     text-align: center;
     padding: 10px 0;
 }
@@ -29,7 +30,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #4AF626;
+    color: ##0a3502;
     font-weight: bold;
 }
 
@@ -91,6 +92,6 @@ section p {
 footer {
     text-align: center;
     background-color: #333;
-    color: #4AF626;
+    color: ##0a3502;
     padding: 10px 0;
 }
