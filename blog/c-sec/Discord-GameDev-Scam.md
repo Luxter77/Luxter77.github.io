@@ -20,7 +20,7 @@ Scammers are posing as game developers, sending executable files that claim to b
 
 <p align="center">
   <img src="https://github.com/Luxter77/BBBlog/assets/19197331/a7a98684-e67f-46fa-843c-11f4b458b06a" alt="By Matt Ian"/>
-  <a href="https://www.threepanelsoul.com/comic/on-subterfuge">Original</a>
+  <a href="https://www.threepanelsoul.com/comic/on-subterfuge">Image Source</a>
 </p>
 
 2. **Executable Files:** They send executable files (.exe) or links to blogs/sites containing these files, claiming to be game demos or other cool programs. These files contain malicious code and are in no way benign.
